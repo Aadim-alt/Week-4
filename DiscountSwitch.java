@@ -10,7 +10,7 @@ public class DiscountSwitch
     double mp = scanner.nextFloat();
     double sp;
     switch(A){
-    case ("A") -> {
+    case ("A") -> {                              
      sp = mp - (mp *60.0/100.0);
         System.out.print("Your Price is: "+sp);
     }

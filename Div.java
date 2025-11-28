@@ -7,7 +7,7 @@ public class Div
         int num;
         System.out.print("Enter a Num: ");
         num = scanner.nextInt();
-        if(num%3 == 0 && num%5 ==0)
+        if(num%3 == 0 && num%5 ==0)  
         {
             System.out.println(num + " is divisible by both 3 and 5.");
         }

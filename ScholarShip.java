@@ -24,5 +24,5 @@ public class ScholarShip
     else{System.out.println("You are not eligible for Scholarship.");}
     }
     else{System.out.println("You are not eligible for Scholarship.");}
-}
+}  
 }
